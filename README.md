@@ -11,11 +11,8 @@
    
  - What happens if there is a strong contradiction between the new sensory evidence and an already taken decision?
 
-## Hzpothesis
+## Hypothesis
 
 When sufficient counter-evidence is presented after the decision is made, this new evidence is taken as an alert signal to help observers change their minds
 
-# Experimental Design
 
-![FreeTask](freetask.png)
-![ReplayTask](replaytask.png)
